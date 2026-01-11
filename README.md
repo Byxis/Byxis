@@ -1,7 +1,10 @@
 # 💫 About Me:
 🔭 Student at Polytech Montpellier in **Data Science, Management and Software Architecture**
+
 🤝 My goal is to become a **Video game Programmer** 
+
 🌱 Passionate about development since childhood!
+
 🛠️ Building my own **Minecraft Server** since 2019!
 
 # 💻 Tech Stack:
